@@ -68,13 +68,11 @@ React的组件相当于MVVM体系中的什么
 
 组件之间的通讯方式
 
-```
 <TodoList>
     <TodoItem></TodoItem>
     <TodoItem></TodoItem>
     <TodoItem></TodoItem>
 </TodoList>
-```
 
 props
 
