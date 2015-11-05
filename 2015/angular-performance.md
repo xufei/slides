@@ -80,7 +80,6 @@ ng-repeat是如何跟踪数据的？
   显式指定数据的唯一索引
   track by $index
   track by id
-  ...
 
 ## 降低数据的大小
 
